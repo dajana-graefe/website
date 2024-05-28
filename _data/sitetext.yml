@@ -22,7 +22,7 @@ de: &DEFAULT_DE
 
   portfolio:
     title: "Wer bin ich?"
-    text: "Ich bin Rapunzel"
+    text: "Rapunzel"
     section: portfolio
     closebutton: "Close Project"
 
@@ -82,7 +82,7 @@ de: &DEFAULT_DE
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "Preise"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
@@ -119,7 +119,7 @@ de: &DEFAULT_DE
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
+    title: "Kontakt"
     text: "Lorem ipsum or call 123456789"
     section: contact
     name: "Name*"
