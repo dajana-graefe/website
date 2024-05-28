@@ -56,9 +56,12 @@ es-ES:
   <<: *DEFAULT_ES
 es-CO:
   <<: *DEFAULT_ES
+
+# Deutsch
+# -------
 de: &DEFAULT_DE
   nav:
-    - title: "Angebot"
+    - title: "Services"
       section: services
     - title: "Portfolio"
       section: portfolio
@@ -72,6 +75,5 @@ de: &DEFAULT_DE
       section: contact
     - title: "Theme Source"
       url: https://github.com/raviriley/agency-jekyll-theme/
-en-US:
+de-DE:
   <<: *DEFAULT_DE
-e
