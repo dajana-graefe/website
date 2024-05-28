@@ -59,9 +59,9 @@ de: &DEFAULT_DE
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "Gemeinsam verändern wir's"
+    text: "Und wie?"
+    body: ""
     section: about
 
   clients:
