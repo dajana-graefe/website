@@ -18,7 +18,7 @@ de: &DEFAULT_DE
         icon: fas fa-eye
       - title: "Entspannungstherapie"
         desc: ""
-        icon: fas fa-bagel
+        icon: fas fa-mug-hot
 
   portfolio:
     title: "Wer bin ich?"
