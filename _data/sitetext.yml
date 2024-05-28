@@ -1,4 +1,3 @@
-
 # German
 # ------
 de: &DEFAULT_DE
@@ -16,7 +15,7 @@ de: &DEFAULT_DE
         icon: fas fa-graduation-cap #find more at https://fontawesome.com/icons
       - title: "Psychotherapie"
         desc: ""
-        icon: fas fa-user-doctor
+        icon: fas fa-hands-holding
       - title: "Entspannungstherapie"
         desc: ""
         icon: fas fa-bagel
