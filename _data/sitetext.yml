@@ -340,10 +340,10 @@ de: &DEFAULT_DE
         icon: fas fa-graduation-cap #find more at https://fontawesome.com/icons
       - title: "Psychotherapie"
         desc: "Ich höre mir Eure Probleme an, egalworum es geht."
-        icon: fas fa-user-doctor-message
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: far fa-user-doctore
+      - title: "[Schematherapie](https://de.wikipedia.org/wiki/Schematherapie)"
+        desc: "Ja, das biete ich auch an!"
+        icon: fat fa-bagel
 
   portfolio:
     title: "Portfolio"
