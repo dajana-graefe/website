@@ -7,23 +7,23 @@ de: &DEFAULT_DE
     text: Schön, dass du mich gefunden hast
 
   services:
-    title: "Services"
-    text: "Mein Angebot"
+    title: "Erzähl's mir"
+    text: "Wie kann ich Dir helfen?"
     section: services
     list:
       - title: "Coaching"
-        desc: "Ich zeige Euch, wie Ihr Euch Euren Ängsten stellen und Eure Ideen umsetzen könnt"
+        desc: ""
         icon: fas fa-graduation-cap #find more at https://fontawesome.com/icons
       - title: "Psychotherapie"
-        desc: "Ich höre mir Eure Probleme an, egalworum es geht."
+        desc: ""
         icon: fas fa-user-doctor
-      - title: "[Schematherapie](https://de.wikipedia.org/wiki/Schematherapie)"
-        desc: "Ja, das biete ich auch an!"
+      - title: "Entspannungstherapie"
+        desc: ""
         icon: fas fa-bagel
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Wer bin ich?"
+    text: "Ich bin Rapunzel"
     section: portfolio
     closebutton: "Close Project"
 

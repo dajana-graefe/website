@@ -3,11 +3,11 @@
 # -------
 de: &DEFAULT_DE
   nav:
-    - title: "erzähls mir"
+    - title: "erzähl's mir"
       section: services
     - title: "ich höre zu"
       section: portfolio
-    - title: "gemeinsam verändern wir"
+    - title: "gemeinsam verändern wir's"
       section: about
     - title: "Preise"
       section: team
