@@ -320,6 +320,9 @@ es-ES:
   <<: *DEFAULT_ES
 es-CO:
   <<: *DEFAULT_ES
+
+# German
+# ------
 de: &DEFAULT_DE
   header:
     title: Willkommen in meinem Studio! 
@@ -469,4 +472,4 @@ de: &DEFAULT_DE
       - url: https://instagram.com
         icon: "fab fa-instagram"
 de-DE:
-  <<: *DEFAULT_EN
+  <<: *DEFAULT_DE
