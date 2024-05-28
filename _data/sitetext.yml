@@ -15,7 +15,7 @@ de: &DEFAULT_DE
         icon: fas fa-graduation-cap #find more at https://fontawesome.com/icons
       - title: "Psychotherapie"
         desc: ""
-        icon: fas fa-hand-holding-medical
+        icon: fas fa-eye
       - title: "Entspannungstherapie"
         desc: ""
         icon: fas fa-bagel
