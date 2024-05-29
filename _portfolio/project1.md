@@ -1,6 +1,8 @@
 ---
 title: über mich
 subtitle: ?
+image: assets/img/portfolio/ueber-mich-Bild.jpg
+alt: Shirts on a hanger
 
 caption:
   title: Threads
