@@ -120,7 +120,7 @@ de: &DEFAULT_DE
 
   contact:
     title: "Kontakt"
-    text: "Lorem ipsum or call 123456789"
+    text: "Tel.: 01774331396"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
