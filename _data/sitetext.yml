@@ -3,7 +3,7 @@
 de: &DEFAULT_DE
   header:
     title: Herzlich Willkommen auf meiner Website 
-    text: Schön, dass du mich gefunden hast
+    text: 
 
   services:
     title: "Erzähl's mir"
