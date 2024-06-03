@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/website" # the subpath of your site, e.g. /blog
 
-title      : Dajana Gräfe<br>Heilpraktikerin für Psychotherapie
+title      : Dajana Gräfe
 email      : dajana.graefe@gmx.de #this is also the email contact forms will go to
 description: >-
   Ich bin eine Heilpraktikerin für Psychotherapie, die Coaching, Psycho- oder Entspannungstherapie anbietet.
